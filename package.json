@@ -1,0 +1,8 @@
+{
+  "name": "jquery",
+  "version": "2.1.2",
+  "private": true,
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
